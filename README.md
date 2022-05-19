@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 📫 How to reach me: [linktree.netlify.app](https://linktree-letam.netlify.app/)
+
+🌱 I’m currently learning Python 🥴
+
 <!--
 **Yagazie-davidson/Yagazie-davidson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
