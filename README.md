@@ -2,8 +2,7 @@
 
 📫 How to reach me: [linktree.netlify.app](https://linktree-letam.netlify.app/)
 
-🌱 I’m in love with JavaScript 🤍
-⚡ Fun fact: ...
+⚡ Fun fact: 🌱 I’m in love with JavaScript 🤍
 
 <!--
 **Yagazie-davidson/Yagazie-davidson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
