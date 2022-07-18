@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 How to reach me: [linktree.netlify.app](https://linktree-letam.netlify.app/)
+📫 How to reach me: [linktr.ee/letamDev](https://t.co/90KCJvvd7D)
 
 ⚡ Fun fact: 🌱 I’m in love with JavaScript 🤍
 
