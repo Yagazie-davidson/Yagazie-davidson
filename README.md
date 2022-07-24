@@ -2,7 +2,7 @@
 
 📫 How to reach me: [linktr.ee/letamDev](https://t.co/90KCJvvd7D)
 
-⚡ Fun fact: 🌱 I’m in love with JavaScript 🤍
+⚡ Fun fact: 🌱 I’m in love with JavaScript 🤍!
 
 
 <!--
