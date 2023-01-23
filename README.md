@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there !👋
 <h2 align="center">
 I'm a Software Engineer 💻 !
 </h2> 
