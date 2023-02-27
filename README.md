@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://letam.vercel.app/](https://letam.vercel.app/)
 
-- 💬 Ask me about **React JS**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **davidsonletam@gmail.com**
 
