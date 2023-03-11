@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/letamdavidson" target="blank"><img src="https://img.shields.io/twitter/follow/letamdavidson?logo=twitter&style=for-the-badge" alt="letamdavidson" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://letam.vercel.app/](https://letam.vercel.app/)
+- 👨‍💻 Personal website [https://letam.vercel.app/](https://letam.vercel.app/)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **davidsonletam@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1lellu5XyIZzZxVi-ML7nRTsbz4ui_44J4AFXHvOXBqk/edit?usp=sharing](https://docs.google.com/document/d/1lellu5XyIZzZxVi-ML7nRTsbz4ui_44J4AFXHvOXBqk/edit?usp=sharing)
+<!-- - 📄 Know about my experiences [https://docs.google.com/document/d/1lellu5XyIZzZxVi-ML7nRTsbz4ui_44J4AFXHvOXBqk/edit?usp=sharing](https://docs.google.com/document/d/1lellu5XyIZzZxVi-ML7nRTsbz4ui_44J4AFXHvOXBqk/edit?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
