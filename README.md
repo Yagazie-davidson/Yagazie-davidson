@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yagazie-davidson&show_icons=true&locale=en" alt="yagazie-davidson" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yagazie-davidson&" alt="yagazie-davidson" /></p>
+
