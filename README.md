@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Letan Ugwuadu</h1>
+<h1 align="center">Hi 👋, I'm Letam Ugwuadu</h1>
 <h3 align="center">A Software Developer from Nigeria</h3>
 
 
