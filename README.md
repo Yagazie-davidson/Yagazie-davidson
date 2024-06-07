@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Letam Ugwuadu</h1>
 <h3 align="center">A Software Developer from Nigeria</h3>
 
-
-<p align="left"> <a href="https://twitter.com/letamdavidson" target="blank"><img src="https://img.shields.io/twitter/follow/letamdavidson?logo=twitter&style=for-the-badge" alt="letamdavidson" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://letam.vercel.app/](https://letam.vercel.app/)
 
 - 💬 Ask me about **Web development**
