@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **davidsonletam@gmail.com**
 
-- 📄 Know about my experiences [Download my Resume](https://drive.google.com/file/d/1Zndnqz9RlVagL8gZdcWP4PsgrTeYi09Q/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
