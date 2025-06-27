@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Letam Ugwuadu</h1>
 <h3 align="center">A Software Developer from Nigeria</h3>
 
-- 👨‍💻 All of my projects are available at [https://letam.vercel.app/](https://letam.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://letam.vercel.app/](https://letam.xyz/)
 
 - 💬 Ask me about **Web development**
 
